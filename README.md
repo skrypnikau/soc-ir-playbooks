@@ -79,6 +79,6 @@ Is there evidence of successful compromise?
 
 ## Author
 
-**Yauheni Skrypnikau** — Cybersecurity Analyst  
+**Yauheni Skrypnikau** - Career-changer building blue-team / SOC skills  
 *   **LinkedIn:** [linkedin.com/in/skrypnikau](https://www.linkedin.com/in/skrypnikau)
 *   **GitHub:** [github.com/skrypnikau](https://github.com/skrypnikau)
